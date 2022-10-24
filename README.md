@@ -12,7 +12,7 @@ CONTACT WITH <a href="https://github.com/RJ-Shuvo"><b>RJ-Shuvo </a> </br><br>
 <p>mdshuvo726@gmail.com</p>  <br> <br> 
 
 
-      RANDOM EMAILP CRACKER
+      RANDOM EMAIL CRACKER
 </p>
   
 #### INSTALL TOOL ON TERMUX
@@ -23,12 +23,12 @@ CONTACT WITH <a href="https://github.com/RJ-Shuvo"><b>RJ-Shuvo </a> </br><br>
  pip install rich
  pip install bs4
  pkg install git 
- rm -rf 
- git clone https://github.com/RJ-Shuvo/
+ rm -rf RJ-EMAIL
+ git clone https://github.com/RJ-Shuvo/RJ-EMAIL
 ```
 #### RUN SCRIPT
 ```python
- cd 
+ cd RJ-EMAIL
  python 
 ```
 
