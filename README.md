@@ -29,7 +29,7 @@ CONTACT WITH <a href="https://github.com/RJ-Shuvo"><b>RJ-Shuvo </a> </br><br>
 #### RUN SCRIPT
 ```python
  cd RJ-EMAIL
- python RJ-RANDOM-Email.py
+ python RJ_RANDOM_Email.py
 ```
 
 
